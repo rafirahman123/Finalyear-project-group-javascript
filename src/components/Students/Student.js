@@ -5,12 +5,18 @@ import './Student.css';
 
 const Student = () => {
     const [students, setStudents] = useState([]);
-
+    const [newStudent, setNewstudent] = useState([]);
     useEffect(() => {
         fetch('./students.json')
             .then(res => res.json())
             .then(data => setStudents(data))
     }, [])
+
+
+    const handleEvent = (student) => {
+        const groupStudent = [...newStudent, student]
+        setNewstudent(groupStudent);
+    }
     return (
         <div className="students-container">
             <div className="student">
@@ -20,13 +26,16 @@ const Student = () => {
                     students.map(student => <Details
                         key={student.name}
                         student={student}
+                        handleEvent={handleEvent}
                     ></Details>)
                 }
 
             </div>
 
             <div className="group-cart">
-                <Group></Group>
+                <Group
+                    newStudent={newStudent}
+                ></Group>
             </div>
         </div>
     );

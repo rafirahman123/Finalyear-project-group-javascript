@@ -1,3 +1,10 @@
 .cart-details{
     text-align: center;
 }
+.group-member{
+    display: block;
+}
+/* .group-member{
+    display: grid;
+    grid-template-columns: 1fr;
+} */

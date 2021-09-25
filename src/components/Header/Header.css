@@ -1,9 +1,10 @@
 .header{
     text-align: center;
-    background-color: black;
-    color: white;
+    background-color: skyblue;
+    color: black;
     height: 100px;
-    padding: 20px;
+    padding-bottom: 50px;
+    padding-top: 10px;
     margin: 5px;
 }
 

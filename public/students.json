@@ -4,104 +4,119 @@
         "img": "https://scontent.fdac38-1.fna.fbcdn.net/v/t1.6435-9/68803451_2463703070411298_845888444533047296_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=WlRawRLlJ0AAX_pP5Jd&_nc_ht=scontent.fdac38-1.fna&oh=20e3fc42ecd57704a3639a71a6096bc3&oe=61749ED2",
         "name": "Imriaz",
         "waiver": 8000,
-        "address": "Chittagong"
+        "address": "Chittagong",
+        "university": "BUBT"
     },
     {
         "id": 169,
         "img": "https://scontent.fdac38-1.fna.fbcdn.net/v/t1.6435-9/221333043_3049828001967540_1387653647793665448_n.jpg?_nc_cat=104&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=q_cM4JX3V9kAX_M9Ucp&_nc_ht=scontent.fdac38-1.fna&oh=ec7fb887e2e2ee6855e02b1eb254a209&oe=6173547D",
         "name": "Rafi",
         "waiver": 6000,
-        "address": "Tangail"
+        "address": "Tangail",
+        "university": "BUBT"
     },
     {
         "id": 178,
         "img": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80&fbclid=IwAR1pxdAn2k4VkilSPHiY0MpeS5_lCFeke2nBKzhn6ZCfxiDf1zqmx147OyU",
         "name": "Raju",
         "waiver": 5000,
-        "address": "Barisal"
+        "address": "Barisal",
+        "university": "BUBT"
     },
     {
         "id": 166,
         "img": "https://english.cdn.zeenews.com/sites/default/files/2017/11/17/639329-indian-men.jpg?fbclid=IwAR2GmQ3PZ5XPYFGJI5YvC7FH2KhEZU0JvzRaANTMmAWKsgocQ0eEfUW69pk",
         "name": "Saikot",
         "waiver": 7000,
-        "address": "Kustia"
+        "address": "Kustia",
+        "university": "BUBT"
     },
     {
         "id": 128,
         "img": "https://cdnuploads.aa.com.tr/uploads/Contents/2019/06/02/thumbs_b_c_d7350e3cad961870f18c363ae8ecb7cd.jpg?v=100713&fbclid=IwAR0odvm46BbUbu4IYo6mYe0x9CUhfO_4y2gIIJGut76kVDRWd1W_tsr8naY",
         "name": "Farzana",
         "waiver": 4000,
-        "address": "Tangail"
+        "address": "Tangail",
+        "university": "BUBT"
     },
     {
         "id": 171,
         "img": "https://www.psypost.org/wp-content/uploads/2020/03/attractive-blonde-woman-taking-selfie-picture-of-herself-750x375.jpg?fbclid=IwAR2f3On8y2LUxTCaFDu4zzwIQsiVDqZBEFyf6vVsnu7GYsvA1eXI5pBCAjU",
         "name": "Munni",
         "waiver": 3000,
-        "address": "Gopalganj"
+        "address": "Gopalganj",
+        "university": "BUBT"
     },
     {
         "id": 155,
         "img": "https://media.istockphoto.com/photos/portrait-of-casual-smiling-man-picture-id1138562953?k=20&m=1138562953&s=612x612&w=0&h=lNhjf4BqFckYRzz5H-CsqWs4cpoPvatzTkjGJTcdm8M%3D&fbclid=IwAR26ESmi_gU4p_fEHa3Z1OoOBj4gtk2cG7MhwFy1dvEBkDCTTpbwZRO_UQ8",
         "name": "Sabbir",
         "waiver": 1000,
-        "address": "Mymansing"
+        "address": "Mymansing",
+        "university": "BUBT"
     },
     {
         "id": 156,
         "img": "https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2015/2015_nisha-varia_06_web-bio.jpg?itok=kK9s1pfy&fbclid=IwAR1kICl0HOp8LAUvUnn2zgfnhthfCW_Qn0pTe4ORq-WwOnflT9rDoBWfgFQ",
         "name": "Mahir",
         "waiver": 2500,
-        "address": "Dhaka"
+        "address": "Dhaka",
+        "university": "BUBT"
     },
     {
         "id": 137,
         "img": "https://www.imf.org/external/pubs/ft/fandd/2020/03/images/morsy-600.jpg?fbclid=IwAR1iTybwoxDFLMlZKQHUgQ1Nnd58pHWJArwYsCfwRZppiygRvoxSa50Lpmg",
         "name": "Meem",
         "waiver": 1000,
-        "address": "Dhaka"
+        "address": "Dhaka",
+        "university": "BUBT"
     },
     {
         "id": 114,
         "img": "https://static.toiimg.com/photo/72957218.cms?fbclid=IwAR0Wk619JTwAvWcM1WEfxA6ekk9UydVwe4njkDjYpWbkKdD6N5kTwDIFcpo",
         "name": "Jinnat",
         "waiver": 4000,
-        "address": "Mymenshing"
+        "address": "Mymenshing",
+        "university": "BUBT"
     },
     {
         "id": 154,
         "img": "https://nextluxury.com/wp-content/uploads/Top-75-Best-Manly-Hobbies-For-Men-1.jpg?fbclid=IwAR15H3A56yW_7DoIDdmlIXUoKg5dn2CaPbPddK3x36VpWbRmj2WihrKn50g",
         "name": "Pranto",
         "waiver": 1000,
-        "address": "Nowakhali"
+        "address": "Nowakhali",
+        "university": "BUBT"
     },
     {
         "id": 188,
         "img": "https://d33ljpvc0tflz5.cloudfront.net/dims3/MMH/7a11ff0/2147483647/strip/true/crop/2168x1215+0+85/resize/728x408!/quality/75/?url=https%3A%2F%2Fd26ua9paks4zq.cloudfront.net%2F8d%2Fbf%2F873c36de4af1b67e6eeb868c6559%2Fimage-getty-476804799.jpg&fbclid=IwAR1O3QEGAEKvQkILHhYGOvRBR08ZIqa63QmdItzogtGDRGCyzCAnc_JoQ3U",
         "name": "Asif",
         "waiver": 4000,
-        "address": "Barisal"
+        "address": "Barisal",
+        "university": "BUBT"
     },
     {
         "id": 148,
         "img": "https://thumbs.dreamstime.com/b/well-dressed-business-indian-men-making-report-to-subordinate-employees-modern-office-well-dressed-business-indian-men-181513754.jpg?fbclid=IwAR3BXS5lnJF5-Vy6836pMOZ1_t6NdtYugPplrETp8Jqu_SD0q5EqDhqYRGI",
         "name": "Azim",
         "waiver": 1000,
-        "address": "Khulna"
+        "address": "Khulna",
+        "university": "BUBT"
     },
     {
         "id": 138,
         "img": "https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1578299652000/photosp/ba1baaef-4806-4b7b-8af7-80299de5f742/stock-photo-indian-man-my-selfie-indian-people-my-photo-indian-boy-indian-young-adult-indian-men-handsome-male-indian-male-with-goggles-ba1baaef-4806-4b7b-8af7-80299de5f742.jpg?fbclid=IwAR0iRvvTPxDHSG4oNhzaVod5l6apWYTarfxfu2Wdg_IIYVNhlmAVyyJVEpc",
         "name": "Shantu",
         "waiver": 4000,
-        "address": "Chittagong"
+        "address": "Chittagong",
+        "university": "BUBT"
     },
     {
         "id": 118,
         "img": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2017/11/17/639329-indian-men.jpg?fbclid=IwAR1o-OGWnhQ9siuMZouun0Rle7F8Ejufi2u0MBus7aVZnr3Hz-UrTIjm3K8",
         "name": "Karim",
         "waiver": 5000,
-        "address": "Sylhet"
+        "address": "Sylhet",
+        "university": "BUBT"
     }
 ]
