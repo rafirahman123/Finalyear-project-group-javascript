@@ -16,7 +16,7 @@ const Details = (props) => {
                 <p>Waiver:{waiver}</p>
                 <p>Adress:{address}</p>
                 <p><small>Id:{id}</small></p>
-                <button onClick={() => props.handleEvent(props.student)} className="cart-button">{icon}add to group</button>
+                <button onClick={() => props.handleEvent(props.student)} className="cart-button">{icon}  Add to group</button>
             </div>
         </div>
 
