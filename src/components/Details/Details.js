@@ -11,6 +11,7 @@ const Details = (props) => {
                 <p>Waiver:{waiver}</p>
                 <p>Adress:{address}</p>
                 <p><small>Id:{id}</small></p>
+                <button className="cart-button">add to cart</button>
             </div>
         </div>
 
